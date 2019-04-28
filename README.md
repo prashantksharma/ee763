@@ -1,2 +1,2 @@
-# ee763
-Pedestrian detection from aerial view + neural network compression
+# Drone Surveillance
+Pedestrian detection from aerial view and neural network compression
