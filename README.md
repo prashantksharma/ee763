@@ -49,7 +49,7 @@ We have used stanford drone dataset : http://cvgl.stanford.edu/projects/uav_data
 
 ### Loss convergence graphs
 
-![](loss.png)
+![](img/loss.png)
 
 ### Demo Inference Videos
 
