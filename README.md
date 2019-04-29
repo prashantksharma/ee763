@@ -13,7 +13,7 @@ Pedestrian detection from aerial view and neural network compression
 * By making architectural changes eg. [SqueezeNet](https://arxiv.org/abs/1602.07360)
 * By doing compression post training eg. [Deep-compression](https://arxiv.org/abs/1510.00149)
 
-### By Making architechturalchanges
+### By Making architechtural changes
 **Observations**
 * Maxpool over average pool
 * Decrease in number of feature maps deep in the architecture
