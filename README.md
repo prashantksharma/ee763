@@ -19,11 +19,11 @@ Pedestrian detection from aerial view and neural network compression
 * LeNet-5 on MNIST dataset
 
 **Results**
-|  Type   | Model Size | Accuracy|
-|-----|:------|:----|
-| Original Models| 270 KB | 98.9%  |
-| Original Model + Fire Modules | 141.4 KB| 98.4% |
-| Original Model + Fire Modules + Observation | 70 KB | 98 %|
+Type   | Model Size | Accuracy|
+--- | ---| ---
+Original Models| 270 KB | 98.9%
+Original Model + Fire Modules | 141.4 KB| 98.4%
+Original Model + Fire Modules + Observation | 70 KB | 98 %
 
 
 ## 2. Pedestrian Detection from Aerial View
