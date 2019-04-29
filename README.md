@@ -62,4 +62,4 @@ alt="Pedestrian Detection at Bookstore" width="640" height="480" border="10" /><
 #### Scene 2
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LUi8Nesm2ro
 " target="_blank"><img src="http://img.youtube.com/vi/LUi8Nesm2ro/0.jpg" 
-alt="Pedestrian Detection" width="240" height="180" border="10" /></a>
+alt="Pedestrian Detection" width="640" height="480" border="10" /></a>
