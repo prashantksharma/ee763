@@ -1,6 +1,8 @@
 # Drone Surveillance
 Pedestrian detection from aerial view and neural network compression
 
+![](img/output.gif)
+
 ## Content
 1. Neural Network Compression
 2. Pedestrian Detection from aerial view
@@ -50,6 +52,7 @@ We have used stanford drone dataset : http://cvgl.stanford.edu/projects/uav_data
 ### Loss convergence graphs
 
 ![](img/loss.png)
+
 
 ### Demo Inference Videos
 
