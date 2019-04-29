@@ -55,5 +55,6 @@ We have used stanford drone dataset : http://cvgl.stanford.edu/projects/uav_data
 
 
 ### Demo Inference Videos
-
-**TO DO**
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6FDwEAQEn4Q
+" target="_blank"><img src="http://img.youtube.com/vi/6FDwEAQEn4Q/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
